@@ -1,3 +1,3 @@
-# AWS Terraform Modules Starter
+# AWS REST API + Lambda
 
-A blank starter template for building Terraform modules for AWS.
+This Terraform module deploys a REST API to AWS API Gateway. It also deploys one or more Lambda functions that you provide and integrates them with the API.
